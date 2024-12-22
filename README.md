@@ -1,4 +1,4 @@
 # riya-demo
 This is my first repository.
 <br>
-Author - Riya Patel
+Author - Riya Brijesh Patel
